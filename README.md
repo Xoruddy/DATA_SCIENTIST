@@ -19,35 +19,35 @@ Q2. 완료
 
 Q3. get_account_num() 메소드가 아니라 변수로 지정함
 
-![Q3](image\Q3.PNG)
+![Q3](image/Q3.PNG)
 
 Q4. 완료
 
-![Q4](image\Q4.PNG)
+![Q4](image/Q4.PNG)
 
 Q5. 완료
 
-![Q5](image\Q5.PNG)
+![Q5](image/Q5.PNG)
 
 Q6. 완료
 
-![Q6](image\Q6.PNG)
+![Q6](image/Q6.PNG)
 
 Q7. 완료
 
-![Q7](image\Q7.PNG)
+![Q7](image/Q7.PNG)
 
 Q8. 완료
 
-![Q8](image\Q8.PNG)
+![Q8](image/Q8.PNG)
 
 Q9. 완료
 
-![Q9](image\Q9.PNG)
+![Q9](image/Q9.PNG)
 
 Q10. 완료
 
-![10](image\10.PNG)
+![Q10](image/Q10.PNG)
 
 
     
@@ -57,7 +57,7 @@ Q10. 완료
 [v]  **3. 에러가 난 부분을 디버깅하여 문제를 “해결한 기록"을 남겼거나 "새로운 시도 
 또는 추가 실험"을 수행해봤나요?**
     - 문제기술에선 5회라고 정해져 있지만 5회마다로 변경하여 코드를 작성함
-    ![image](image\A3.PNG)
+    ![image](image/A3.PNG)
         
 [v]  **4. 회고를 잘 작성했나요?**
     - 회고록을 작성하지 않아도 될 문제임
